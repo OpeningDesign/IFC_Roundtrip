@@ -16,6 +16,10 @@ local.properties
 .settings/
 .loadpath
 
+*.0001.rvt
+*.0002.rvt
+*.0003.rvt
+
 # External tool builders
 .externalToolBuilders/
 

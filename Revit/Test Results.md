@@ -4,3 +4,5 @@
 |Revit(2014,Model_Line)|IFCExporter(2_9_0,FMHO)|Revit(2014,Default)|Yes|
 |Revit(2014,Model_Line)|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|No|Model_Line missing
 |Revit(2014,Text_Notes)|IFCExporter(2_9_0,FMHO)|Revit(2014,Default)|Yes|3 different scales translated, as well.
+|Revit(2014,Text_Notes)|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|No|Missing
+|Revit(2014,Wall(Base_Constraint('Level 1'),Top_Constriant('Level 2'))|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|Partial|(Top Constriant = Unconnected, IFC Parameters added)

@@ -6,7 +6,7 @@ A open, crowdscourced library of IFC/BIM test files--striving for bi-directional
 
 ----------
 
-Hopefully, in the future, this project will evolve to the point that it could be used, in some capacity, to improve the fidelity of BuildingSmart's MVD certifications.
+Hopefully, in the future, this project will evolve to the point that it could be used, in some capacity, to improve the fidelity of BuildingSmart's [MVD Certifications](http://www.buildingsmart-tech.org/certification).
 
 Initial focus will include Buildingsmart's current MVD releases: 
 
