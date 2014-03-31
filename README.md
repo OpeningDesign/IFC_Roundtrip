@@ -10,9 +10,9 @@ Hopefully, in the future, this project will evolve to the point that it could be
 
 Initial focus will include Buildingsmart's current MVD releases: 
 
- - IFC2x3 Coordination View Version 2.0
- - IFC2x3 Structural Analysis View
- - IFC2x3 Basic FM HandOver view (released)
+ - [IFC2x3 Coordination View Version 2.0](http://www.buildingsmart-tech.org/specifications/ifc-view-definition/coordination-view-v2.0)
+ - [IFC2x3 Structural Analysis View](http://www.buildingsmart-tech.org/specifications/ifc-view-definition/structural-analysis-view)
+ - [IFC2x3 Basic FM HandOver](http://www.buildingsmart-tech.org/specifications/ifc-view-definition/fm-handover-aquarium)
 
 ----------
 ### Contributing
