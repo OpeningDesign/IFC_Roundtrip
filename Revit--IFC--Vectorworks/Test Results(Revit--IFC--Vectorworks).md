@@ -1,3 +1,3 @@
 |Authoring Program(Version,Element)|Export Program(Version,MVD)|Import Program(Version,MVD)|Data Translation|Notes...............................................|                   
 | --- | --- | --- | ------------------- | -------------- |
-|Revit(2014,Wall(Base_Constraint('Level 1'),Top_Constriant('Level 2'))|IFCExporter(2_9_0,CV_2_0)--VectorWorks(2014,Default)|No|No longer a wall--is an 'IFC entity
+|Revit(2014,Wall(Base_Constraint('Level 1'),Top_Constriant('Level 2'))|IFCExporter(2_9_0,CV_2_0)|VectorWorks(2014,Default)|No|No longer a VW's wall object--is an 'IFC entity'
