@@ -1,4 +1,3 @@
-
 # IFC_roundtrip
 
 A open, crowdsourced library of IFC/BIM test files--striving for bi-directional/roundtrip functionality between BIM programs.
@@ -20,7 +19,7 @@ As it is open source, and crowdsourced, please add to the project as you see fit
 
 I will be working on Revit-->IFC-->Revit translations.  Would be great to work with ArchiCAD, Vectorworks, Microstation, Tekla, etc. IFC experts as well.
 
-If you're not familar with Git or Github workflow, I highly recommend using [Github's Windows Client](http://windows.github.com/http://windows.github.com/).  Go [here](http://windows.github.com/help.html), for an overview.  Once you start using this [distributed revision control](http://en.wikipedia.org/wiki/Distributed_revision_control), you will start demanding similar workflows in the AEC industry. 
+If you're not familar with Git or Github workflow, I highly recommend using [Github's Windows Client](https://windows.github.com/).  Go [here](http://windows.github.com/help.html), for an overview.  Once you start using this [distributed revision control](http://en.wikipedia.org/wiki/Distributed_revision_control), you will start demanding similar workflows in the AEC industry. 
 
 ### License
 ----------
