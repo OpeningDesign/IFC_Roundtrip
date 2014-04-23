@@ -1,0 +1,12 @@
+
+## Common BIM Functionality
+
+---
+
+This table outlining similar functionality that is present in common, authoring BIM platforms.  The intention is to find the lowest-common-denominator functionality---functionality that could be a prime candidate for the development of a **RoundTrip MVD**.
+
+*(Please include other platforms, as you see fit, in the table below)*
+
+|Object|Generic Functionality|ArchiCAD|Microstation|Revit|Vectorworks|Candidate for Round-tripping?
+| --- | --- | --- | ------------------- | -------------- |
+|Wall|Constrain base of wall to a building elevation|Home_Link('1st FLOOR')|?|Base_Constraint('Level 1'|Bot_Bound('Design Layer-1')|high
