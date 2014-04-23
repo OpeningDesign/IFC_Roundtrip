@@ -1,21 +1,21 @@
 # IFC_roundtrip
-----------
-A open, crowdsourced library of IFC/BIM test files--striving for bi-directional/roundtrip functionality between BIM programs.
 
-----------
+A open, crowdsourced library of IFC/BIM test files.  
 
-Hopefully, in the future, this project will evolve to the point that it could be used, in some capacity, to improve the fidelity of BuildingSmart's [MVD Certifications](http://www.buildingsmart-tech.org/certification).
+The objective of this initiative is to identify (within the various BIM Platforms)...
 
-Initial focus will include Buildingsmart's current MVD releases: 
+* ...what **objects/functionality** can be round-tripped currently.
+* ...what **objects/functionality** could be prime [candidates](/Common_BIM_Functionality.md) for round-tripping in the future.
 
- - [IFC2x3 Coordination View Version 2.0](http://www.buildingsmart-tech.org/specifications/ifc-view-definition/coordination-view-v2.0) (CV_2_0)
- - [IFC2x3 Structural Analysis View](http://www.buildingsmart-tech.org/specifications/ifc-view-definition/structural-analysis-view) (SAV)
- - [IFC2x3 Basic FM HandOver](http://www.buildingsmart-tech.org/specifications/ifc-view-definition/fm-handover-aquarium) (FMHO)
+Hopefully, in the future, this project will evolve to the point that it could be used as the basis for a new type of **'Roundtrip MVD'**.
+
+* *[What](http://www.buildingsmart-tech.org/specifications/mvd-overview) is an MVD?*
+* *[What](http://www.buildingsmart-tech.org/specifications/ifc-view-definition) are the current, sanctioned MVDs?*
 
 ----------
 ### Contributing
 ----------
-As it is open source, and crowdsourced, please add to the project as you see fit.  As you can imagine, this is a BIG project.
+As it is open source, and crowdsourced, please add to the project as you see fit.  As you can imagine, this is a **BIG** project.
 
 ...
 
@@ -32,8 +32,6 @@ examples...
 * etc. <the isolated test cases are virtually endless--the idea is to test one thing only.>
 
 The next step is to export out an IFC file using the authoring program's specific MVD settings *(Coordination View 2.0 or FM handover, for example)*
-
-*The idea here, is to test the fidelity of the program's MVD translation, not to tweak the IFC export settings of a particularity BIM program*
 
 The next step is to import the test file into another BIM platform, again using a specific MVD setting. From here, I've denoted that if the translation has passed/failed (or partial) based on how much 'intelligence' remains intact upon import.
 
@@ -55,7 +53,7 @@ As i said before, i expect this project to evolve over time and am open to reint
 ----------
 ### Tools
 ----------
-If you're not familar with Git or Github workflow, I highly recommend using [Github's Windows Client](https://windows.github.com/).  Go [here](http://windows.github.com/help.html), for an overview.  Once you start using this [distributed revision control](http://en.wikipedia.org/wiki/Distributed_revision_control), you will start demanding similar workflows in the AEC industry. 
+If you're not familiar with Git or Github workflow, I highly recommend using [Github's Windows Client](https://windows.github.com/).  Go [here](http://windows.github.com/help.html), for an overview.  Once you start using this [distributed revision control](http://en.wikipedia.org/wiki/Distributed_revision_control), you will start demanding similar workflows in the AEC industry. 
 
 ----------
 ### License
