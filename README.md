@@ -1,8 +1,8 @@
 # IFC_roundtrip
 
-A open, crowdsourced library of IFC/BIM test files.  
+An open, crowdsourced library of IFC/BIM test files.  
 
-The objective of this initiative is to identify (within the various BIM Platforms)...
+The objective of this initiative is to identify, within the various BIM Platforms, ...
 
 * ...what **objects/functionality** can be round-tripped currently.
 * ...what **objects/functionality** could be prime [candidates](/Common_BIM_Functionality.md) for round-tripping in the future.
