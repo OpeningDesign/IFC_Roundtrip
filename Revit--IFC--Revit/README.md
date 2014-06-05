@@ -15,3 +15,4 @@
 |Revit(2014,Wall(Walls_Joins(Butt(Dont_Clean_Join))))|IFCExporter(2-9_0,CV_2_0)|Revit(2014,Default)|No|
 |Revit(2014,Wall(Walls_Joins(Clean)))|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|Yes|Default 'join' in Revit
 |Revit(2014,Wall(Walls_Joins(Miter(Dont_Clean_Join))))|IFCExporter(2-9_0,CV_2_0)|Revit(2014,Default)|No|
+|Revit(2014,Window(Loadable_Family('Simple_Glass')))|IFCExporter(2_9_0,CV2_0)|Revit(2014,Default)|Partial|Type parameters (width, height, default sill height) missing
