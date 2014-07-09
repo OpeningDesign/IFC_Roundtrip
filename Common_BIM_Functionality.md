@@ -8,6 +8,6 @@ This table outlines similar functionality that is present in common, authoring B
 
 *(Please include other platforms, as you see fit, in the table below)*
 
-|Object|Generic Functionality|ArchiCAD|Microstation|Revit|Vectorworks|Candidate for Round-tripping?|
-| --- | --- | --- | --- | --- | --- | --- |
-|Wall|Constrain base of wall to a building elevation|Home_Link('1st FLOOR')|[help]|Base_Constraint('Level 1'|Bot_Bound('Design Layer-1')|high|
+|Object|Generic Functionality|Allplan|ArchiCAD|Microstation|Revit|Vectorworks|Candidate for Round-tripping?|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|Wall|Constrain base of wall to a building elevation|[help]|Home_Link('1st FLOOR')|[help]|Base_Constraint('Level 1'|Bot_Bound('Design Layer-1')|high|
