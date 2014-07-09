@@ -13,6 +13,8 @@
 |Revit(2014,Wall(Edit_Profile('Top Cant')))|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|Partial|Modified profile reset, new IFCOpeningElements used to create 'void'.
 |Revit(2014,Wall(Rectangular_Straight_Wall_Opening(Base_Constraint('Level 1'),Top_Constriant('Level 2')))|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|Partial|'Top Constraint' went from 'Level 2' to 'Level 1'.
 |Revit(2014,Wall(Rectangular_Straight_Wall_Opening(Base_Constraint('Level 1'),Top_Constriant('Level 1')))|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|Yes|
+|Revit(2014,Site(Modify_Site(Property_Line)))|IFCExporter(2-9_0,CV_2_0)|Revit(2014,Default)|No|
+|Revit(2014,Site(Modify_Site(Property_Line)))|IFCExporter(2-9_0,FMHO)|Revit(2014,Default)|No|
 |Revit(2014,Wall(Walls_Joins(Butt(Dont_Clean_Join))))|IFCExporter(2-9_0,CV_2_0)|Revit(2014,Default)|No|
 |Revit(2014,Wall(Walls_Joins(Clean)))|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|Yes|Default 'join' in Revit
 |Revit(2014,Wall(Walls_Joins(Miter(Dont_Clean_Join))))|IFCExporter(2-9_0,CV_2_0)|Revit(2014,Default)|No|
