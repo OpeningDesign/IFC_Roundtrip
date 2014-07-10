@@ -3,6 +3,7 @@
 |Revit(2014,Filled_Region(Draft))|IFCExporter(2_9_0,FMHO)|Revit(2014,Default)|Partial|'Draft File Pattern' changes to 'Model Fill Pattern'
 |Revit(2014,Model_Line)|IFCExporter(2_9_0,FMHO)|Revit(2014,Default)|Yes|
 |Revit(2014,Model_Line)|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|No|'Model Line' missing
+|Revit(2014,Model_Line(Spline))|IFCExporter(2_10_2,IFC3_BFMH)|Revit(2014,Default).rvt|Partial|Converted to line segments
 |Revit(2014,Text_Notes)|IFCExporter(2_9_0,FMHO)|Revit(2014,Default)|Yes|3 different scales translated, as well.
 |Revit(2014,Text_Notes)|IFCExporter(2_9_0,CV_2_0)|Revit(2014,Default)|No|Missing
 |Revit(2014,Symbolic_Line)|IFCExporter(2_9_0,FMHO)|Revit(2014,Default)|No|missing
